@@ -1,0 +1,105 @@
+﻿Proposal - Team-2 React2
+
+About the Project:
+        Project Domain: Education
+
+        Project Name: Educator - Your modern age mentor
+
+        Project Description: 
+                An online learning portal for Mobile and Desktop as a web-app.
+
+                    This will have category wise courses and resource links.
+                Courses will consist of videos(iframe) + assignments + submit assignment + additional 
+                links under each course. 
+                    Any user must login/sign-up in order to access courses.
+        
+                There will be three types of users - 
+                        1. Admin 
+                        2. Course Creator 
+                        3. Student
+
+                1. Course creators can sign-up and will have an activated account on approval by the admin.
+                2. Same sign-up form for creator/student sign-up. A student can be a creator for some courses 
+                   and vice versa. (logic and guards accordingly).
+                3. After login - Course Details will be shown.
+                4. Progress tracker on seeing topics of courses.
+                5. Students can watch and mark active courses for him/her.
+
+        Project Details:
+                1. Registration Form for course Creator/ Student 
+                2. Login Form for course creator/Student
+                3. Router for navigation between categories of courses, active courses and discussion room.
+                4. Course component having video, comments, bookmarks, assignment, and links and resources.
+                
+Team Details:
+        Team Name: r2-team2
+        Tech Stack: React
+        Mentors:
+                1. Jyoti Mishra - 09mishra.jyoti@gmail.com 
+                2. Kuljeet Singh- kuljeetsingh951@gmail.com
+                3. Dilip - manishkumar199222@gmail.com
+                4. Bhuwan Chandra - bhuwan7779@gmail.com
+        Moderators: 
+                1. Saumya
+        Participants:
+                1. Fabeha Rizvi - fabrizvi786@gmail.com
+                2. Himanshu - jhimanshu9922@gmail.com
+                3. Jai Kumar Dewani - jai.dewani.99@gmail.com
+                4. Dibyendu Maji - dibyendumaji415@gmail.com
+                5. Khushbu Chouksey - khushbu25chouksey@gmail.com
+                6. Jaidev Singh Bhui - jaidev.bhui@gmail.com
+                7. Chirag - kumarchiragixa@gmail.com
+                8. Girish Kumar - patchikorugiri01@gmail.com
+                9. Divy Sen - divysen.astro@gmail.com
+                10. Humza 
+                11. Rajesh
+                12. Guneshwar
+
+Learning Plan:
+        June 2020:
+                1. What is React? 
+                2. What is Functional component and Class Component.
+                3. React Dom Vs Virtual Dom
+                4. React Component and State Management, passing of props and managing multiple instances
+                   of a component.
+                5. React Router.
+                6. State Management in details and guards for routers.
+                7. Firebase integration.
+                8. ToDo app
+
+        July 2020:
+                1. Project planning and UI design
+                2. Building React  Forms and creating state entire Project
+                3. Learning Redux for state management.
+                4. Start Implementation of Project by reaching one by one milestone.
+
+        August 2020:
+                1. Creating Iframe video.
+                2. Attaching Toaster npm module to show log-in successful in between fetching routes.
+                3. Comment on a course.
+                4. Adding a course if a user is the course creator.
+                5. Adding a student progress bar component.
+                6. Notes and blogs section.
+
+Monthly Milestones:
+        June 2020:
+                1. Create a Todo APP which has Create Todo, update, delete feature using react. (Keep as many
+                   break down Components as you can for a clear structure).
+                2. Implement a React-router to Navigate between Todo-list, Todo-creation/updation Form
+                3. Create an Application for Login/sign up using Forms in react. On successful log-in redirect
+                   to the welcome page. Use Firebase real-time DB as Database.
+                
+        July 2020:
+                1. IFrame video player
+                2. Comments and bookmark component
+                3. Assignments and file upload component
+                4. Login/signup components
+                5. Verification and DB module
+        
+        August 2020:
+                1. Create a discussion section for courses where students can ask queries of the same course.
+                   (only for the students enrolled in that course)
+                2. Create reviews and rating components for courses.
+                3. Create a progress-bar component for courses.
+                4. Multiple Notes and Blogs section.
+
