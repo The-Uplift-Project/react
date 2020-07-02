@@ -1,29 +1,30 @@
-# React
+# React - Team-R3
 
-This repository should only be used to submit materials realated to your project like codes, reports, project ideas etc under the Uplift Project.
+## Project Domain: Animal Rights and Safety
 
-## Submission Procedure
+## Project Name: ---
 
-Read the following steps and guidelines properly for proper submission of your project. Missing out any step or performing it wrongly can lead to unsuccessful submission.
+## Project Description:
 
-# Steps
+>  A web-based-platform to spread awareness among people about the animal abuse happening near by them. With an aim to make people realize what activities are happening around them and providing a chance to bring a change. 
+ 
 
-1. Fork this repository to your profile.
 
-2. Clone the repository.
+### Features - 
+* >   The login functionality will be present.Almost all actions are only available for logged-in users.  
+* >   Even with login functionality it will be open for all. Allowing users to access the application and view content. Users can go through the application anonymously but to use other features login is a mandatory step.    
+* >   Reporting an incident is allowed for logged in users. ( An upload will be considered successful only if few mandatory information is provided ).
+* >   Upvoting and Downvoting ( to be renamed ) options are also added for logged in users. The only purpose of this vote is to let the other users know about the credibility of the reported incident. (Not to be confused with sympathy or like ). 
+* >   An option for users to start a thread/discussion of any reported incidents for allowing the other users to give some suggestions and discuss, in case they are not able to help or solve the problem on their own or not able to help. 
+* >   Users can also opt for viewing only local incidents. In case they are only interested in knowing what is actually happening in their area.
+* >   A share feature will also be present for allowing the users to make their friends aware about the reality. 
+* >   A profile section will also be present to show the basic details of a user and are also editable.
 
-2. Change to your team branch by typing `git checkout <teamname>`
-
-3. Make the changes and commit to the same branch and push it.
-
-4. Create a pull request from `<username>/<teamname>` to `The-Uplift-Project/<teamname>`
-
-## NOTE
-
-DO NOT COMMIT TO THE `master` branch. Only commit to your team branch.
-
-### Each branch will contain
-
--   A text file that contains proper documentation. The documentation should contain:
-    -   A description of your project.
-    -   The contents of your project directory.
+## Technological Coverage: 
+- Git and Github 
+- Basic Web Technologies ( HTML , CSS & Javascript ) 
+- React Js 
+- Redux 
+- React-Router 
+- Integration with existing packages 
+- Firebase Integration ( For backend related tasks).
