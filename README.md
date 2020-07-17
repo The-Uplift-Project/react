@@ -31,8 +31,12 @@
 >  3. Router for navigation between categories of courses, active courses and discussion room.
 >  4. Course component having video, comments, bookmarks, assignment, and links and resources.
 
+## Project Repositories
+
+#### [ Initial Learning and Assignment Repository](https://github.com/jstjyoti/react-Learning-roadmap)
+#### [Educator React-Uplift-Project Code Repository](https://github.com/Kuljeet-123/React-Uplift-Project)
 
 ## Progress of Team-R2
 
-### [Progress Report of June](./June-progress-report%20Team-R2.pdf)
+#### [Progress Report of June](./June-progress-report%20Team-R2.pdf)
 
