@@ -31,3 +31,8 @@
 >  3. Router for navigation between categories of courses, active courses and discussion room.
 >  4. Course component having video, comments, bookmarks, assignment, and links and resources.
 
+
+## Progress of Team-R2
+
+### [Progress Report of June](./June-progress-report%20Team-R2.pdf)
+
