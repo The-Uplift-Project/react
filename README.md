@@ -2,7 +2,7 @@
 
 ## Project Domain: Animal Rights and Safety
 
-## Project Name: ---
+## Project Name: Animo
 
 ## Project Description:
 
